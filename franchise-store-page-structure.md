@@ -52,8 +52,8 @@
 
 ┌──────────────────────────────────────────────────────────────┐
 │ [VIDEO TESTIMONIAL]  dark background section                  │
-│   ┌───────────────────────────┐   "Why I chose Big Deal       │
-│   │   ▶  VIDEO (16:9)         │    Supermart"                 │
+│   ┌───────────────────────────┐   "Why I chose G Fresh Mart" │
+│   │   ▶  VIDEO (16:9)         │                               │
 │   │   poster = owner in store │    Meera Rathi, Owner         │
 │   └───────────────────────────┘    Vijay Nagar, Indore        │
 │                                    3:42 · Hindi (subtitles)   │
