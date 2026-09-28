@@ -1,4 +1,4 @@
-# Big Deal Supermart — Franchise Store Profile Page
+# G Fresh Mart — Franchise Store Profile Page
 ## Page structure, wireframe & content specification (template for all store pages)
 
 **Page type:** Repeatable store profile template (one page per franchise location)
@@ -21,7 +21,7 @@
 ┌──────────────────────────────────────────────────────────────┐
 │ [HERO]                                                       │
 │  ┌────────────────────────┐   Badge: FRANCHISE STORE · LIVE  │
-│  │                        │   H1  Big Deal Supermart         │
+│  │                        │   H1  G Fresh Mart         │
 │  │   LARGE STORE PHOTO    │       Vijay Nagar, Indore        │
 │  │   (exterior/facade)    │   Owned by Meera Rathi · Since   │
 │  │                        │   March 2024                     │
@@ -166,7 +166,7 @@
 **Layout:** Split 50/50 on desktop — photo right, text left (or full-bleed photo with a left text card). Stacked on mobile with the photo first at 4:3. Photo must be the real storefront, not stock.
 **Example:**
 > **FRANCHISE STORE · OPERATING SINCE MARCH 2024**
-> # Big Deal Supermart — Vijay Nagar, Indore
+> # G Fresh Mart — Vijay Nagar, Indore
 > Owned and run by Meera Rathi · 2,400 sq ft · Open 7 days
 > A neighbourhood supermarket serving around 900 families a week, built in a residential pocket of Vijay Nagar with parking for 12 vehicles and a full fresh-produce section.
 > `[Enquire About a Franchise]`  `[Watch Owner's Story ▶]`
@@ -185,7 +185,7 @@
 **Layout:** Two columns — description 60%, highlight checklist 40% in a light grey card. Single column on mobile, highlights after the text.
 **Example:**
 > **About this store**
-> Big Deal Supermart Vijay Nagar sits on the ground floor of a residential complex on Scheme 54 Road, about 400 metres from the main market. The store opened in March 2024 in a 2,400 sq ft unit and stocks around 11,000 products — daily groceries, fresh fruit and vegetables, dairy, packaged foods, personal care, and a small home-and-kitchen section. Most customers live within two kilometres and shop two or three times a week, so the store is built around fast daily-needs shopping: wide aisles, two billing counters, and a fresh section refilled every morning. Nine people work here, including the owner, who is on the floor most mornings.
+> G Fresh Mart Vijay Nagar sits on the ground floor of a residential complex on Scheme 54 Road, about 400 metres from the main market. The store opened in March 2024 in a 2,400 sq ft unit and stocks around 11,000 products — daily groceries, fresh fruit and vegetables, dairy, packaged foods, personal care, and a small home-and-kitchen section. Most customers live within two kilometres and shop two or three times a week, so the store is built around fast daily-needs shopping: wide aisles, two billing counters, and a fresh section refilled every morning. Nine people work here, including the owner, who is on the floor most mornings.
 > **Store highlights:** ✓ 2,400 sq ft on ground floor · ✓ 11,000+ products across 14 categories · ✓ Dedicated fresh fruit & vegetable section · ✓ 2 billing counters, UPI and card accepted · ✓ Parking for 12 vehicles · ✓ Team of 9, trained by the brand
 **CTA:** None (keep the reading flow uninterrupted).
 
@@ -194,7 +194,7 @@
 **Content:** 10–16 real photographs, captioned, grouped: Exterior & signage, Entrance & billing, Grocery aisles, Fresh produce, Dairy & frozen, Personal care/home, Staff/team, Launch day.
 **Layout:** Filter chips above a masonry or 4-column grid (2 columns on mobile). First image larger. Click opens a lightbox with caption and arrow navigation. Lazy-load everything below the first row; use WebP at ~1600px wide with 4:3 or 3:2 crops for consistency.
 **Example captions:** "Main entrance and signage on Scheme 54 Road" · "Grocery aisle — 1.4 m aisles for trolley movement" · "Fresh fruit and vegetable section, restocked every morning" · "Two billing counters at peak evening hours" · "The store team on launch day, March 2024"
-**CTA:** Soft text link — "See how a Big Deal Supermart store is planned and set up →".
+**CTA:** Soft text link — "See how a G Fresh Mart store is planned and set up →".
 
 ### Section 5 — Franchise Owner Video Testimonial
 **Purpose:** The single strongest trust element on the page — a real owner speaking in their own words.
@@ -202,7 +202,7 @@
 **Layout:** Dark section (deep charcoal or brand dark) so the video pops. Video 16:9 on the left at ~60% width, text block right. Use a custom poster frame of the owner inside their store, a large play button, and facade-loading (click-to-load YouTube/Vimeo) so the page stays fast. Full-width video above text on mobile.
 **Example:**
 > ### "I had never run a retail store before this."
-> **Meera Rathi** — Owner, Big Deal Supermart Vijay Nagar, Indore
+> **Meera Rathi** — Owner, G Fresh Mart Vijay Nagar, Indore
 > 3:42 · Hindi with English subtitles
 > In this video: why they picked a supermarket over other businesses · how the site was chosen and the store was set up in about nine weeks · what running the store looks like on an ordinary day.
 **CTA:** Below the video — "Talk to our franchise team →".
@@ -213,7 +213,7 @@
 **Layout:** Centred, narrow measure (max ~700px), quote in 24–28px serif or medium-weight sans with a large opening quotation mark. Circular owner photo (96px) below the quote with attribution beside it. Generous white space — this section should feel like a pause.
 **Example:**
 > ❝ I came from a textile distribution background and knew nothing about retail shelves or billing software. What helped was that the layout, the supplier list and the staff training were already worked out. My job was to pick the right location and then be present in the store every day. Fourteen months in, this is a business I understand. ❞
-> **Meera Rathi** — Owner, Big Deal Supermart Vijay Nagar, Indore · Franchisee since March 2024
+> **Meera Rathi** — Owner, G Fresh Mart Vijay Nagar, Indore · Franchisee since March 2024
 **CTA:** None — let the quote stand alone.
 
 ### Section 7 — Key Store Facts
@@ -286,15 +286,15 @@
 **Purpose:** Keep the visitor on-site if this store is not the right comparison for them, and build internal links across hundreds of store pages.
 **Content:** 3–4 cards for other stores — ideally in the same state, a similar size, or a different format for contrast. Each card: photo, store name, area, investment range, year opened.
 **Layout:** Horizontal card row (scrollable on mobile), plus a "View all stores" button to the store directory.
-**Example:** `Big Deal Supermart — Bhawarkua, Indore · 1,800 sq ft · Opened 2023` · `Big Deal Supermart — Ujjain Road, Dewas · 3,100 sq ft · Opened 2025`
-**CTA:** `[View all Big Deal Supermart stores]`.
+**Example:** `G Fresh Mart — Bhawarkua, Indore · 1,800 sq ft · Opened 2023` · `G Fresh Mart — Ujjain Road, Dewas · 3,100 sq ft · Opened 2025`
+**CTA:** `[View all G Fresh Mart stores]`.
 
 ### Section 15 — Franchise CTA & Enquiry Form
 **Purpose:** The conversion point. Everything above exists to make this form feel like a small, safe next step.
 **Content:** Headline referencing the journey just read, 3 reassurance bullets, a "what happens next" micro-sequence, and a short form. Keep to 5 fields — every extra field costs completion. Hidden field capturing the source store.
 **Layout:** Full-width brand-colour band. Left column: headline + reassurance. Right column: white form card with visible labels, large tap targets, one primary button. Single column on mobile with the form below the copy. Show a success state in place, not a page reload.
 **Example:**
-> ## Interested in opening a Big Deal Supermart?
+> ## Interested in opening a G Fresh Mart?
 > Tell us your city and preferred store size, and our franchise team will share the format options, space requirements and an indicative investment range for your location.
 > ✓ No obligation — an enquiry is just a conversation
 > ✓ We respond within 2 working days
@@ -302,7 +302,7 @@
 > **What happens next:** You enquire → We call to understand your city, budget and timeline → We share format options and space requirements → You visit a store → You decide.
 > **Form fields:** Full name* · Phone/WhatsApp* · City & state* · Space available (owned / rented / still looking) · Investment range you are considering (dropdown) · Message (optional)
 **CTA:** `[Submit Franchise Enquiry]` — plus `[WhatsApp Us]` as a lower-friction alternative.
-**Compliance line under the form:** *Big Deal Supermart does not guarantee any level of sales, profit, or return on investment. Store performance depends on location, rent, operating costs and day-to-day management.*
+**Compliance line under the form:** *G Fresh Mart does not guarantee any level of sales, profit, or return on investment. Store performance depends on location, rent, operating costs and day-to-day management.*
 
 ### Section 16 — Footer & Sticky Mobile Bar
 **Purpose:** Catch anyone who scrolls past the form, and keep conversion one tap away on mobile throughout.
@@ -333,8 +333,8 @@ Every field below should be a structured field in the CMS so one template render
 **Identity & location**
 | Field | Type | Example |
 |---|---|---|
-| store_id* | string | BDS-MP-IND-014 |
-| store_name* | string | Big Deal Supermart — Vijay Nagar |
+| store_id* | string | GFM-MP-IND-014 |
+| store_name* | string | G Fresh Mart — Vijay Nagar |
 | locality* | string | Vijay Nagar |
 | city* | string | Indore |
 | state* | string | Madhya Pradesh |
@@ -385,7 +385,7 @@ Every field below should be a structured field in the CMS so one template render
 | Field | Type | Example |
 |---|---|---|
 | hero_image* | image (3:2, ≥1600px) | Storefront |
-| hero_image_alt* | string | Big Deal Supermart storefront, Vijay Nagar, Indore |
+| hero_image_alt* | string | G Fresh Mart storefront, Vijay Nagar, Indore |
 | short_intro* | text (2 lines, ≤180 chars) | … |
 | store_description* | rich text (120–160 words) | … |
 | store_highlights* | repeater (6 bullets) | … |
@@ -402,12 +402,12 @@ Every field below should be a structured field in the CMS so one template render
 | customer_reviews | repeater (rating, quote, name, month) | … |
 | google_rating / review_count | number | 4.6 / 312 |
 | store_faqs | repeater (question, answer) — 5–7 | … |
-| related_store_ids | relation (3–4) | BDS-MP-IND-009 … |
+| related_store_ids | relation (3–4) | GFM-MP-IND-009 … |
 
 **Meta & governance**
 | Field | Type | Example |
 |---|---|---|
-| meta_title* | string (≤60 chars) | Big Deal Supermart Vijay Nagar, Indore — Franchise Store |
+| meta_title* | string (≤60 chars) | G Fresh Mart Vijay Nagar, Indore — Franchise Store |
 | meta_description* | string (≤155 chars) | … |
 | og_image | image | … |
 | owner_consent_media* | boolean + date | true, 2025-11-02 |
